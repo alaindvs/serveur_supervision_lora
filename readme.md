@@ -2,8 +2,6 @@
 
 Copyright Serveur de supervison LoRa (C) 2019 Alain DAVASSOU - Jules Duperoux for IUT de Cachan 
 
-## Qu'est ce qu'Advanced marché de Cachan ? ##
-
 ## Quel est le but du projet ? ##
 Le but de notre projet est de pouvoir mettre oeuvre un réseau LoRa  pour cela  nous devons : 
 * Acquérir des connaissances sur le réseau Lora 
