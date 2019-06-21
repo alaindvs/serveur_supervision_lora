@@ -10,4 +10,4 @@ Le but de notre projet est de pouvoir mettre oeuvre un réseau LoRa  pour cela  
 * Prendre en main le kit de développement Multi Connect  
 * Réaliser une démonstration  
 
-<img src="https://github.com/alaindvs/serveur_supervision_lora/synoptique.png" alt="drawing" width="720"/>
+<img src="https://github.com/alaindvs/serveur_supervision_lora/blob/master/synoptique.png" alt="drawing" width="720"/>
